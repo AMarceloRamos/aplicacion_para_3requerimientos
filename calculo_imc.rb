@@ -41,7 +41,7 @@ module CalculoImc
         #funcion que inicia el programa
         def iniciar_calculo_imc
         puts "**************************************************************************************************"
-        puts "                                               -Sistema:                                         "
+        puts "                                               -Sistema:                                          "
         puts "                            Hola, ¡Bienvenido/a al sistema de cálculo IMC!                        "
         puts "                                                                                                  "
         puts "**************************************************************************************************"
