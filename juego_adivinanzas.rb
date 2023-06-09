@@ -25,7 +25,7 @@ module JuegoAdivinanzas
     def iniciar_juego
       puts "**************************************************************************************************"
       puts "                                            -Maquina:                                             "
-      puts "                       Hola, bienvenido al juego de adivinanzas y gana                            "
+      puts "                              Hola, bienvenido al juego de adivinanzas                            "
       puts "                                                                                                  "
       puts "**************************************************************************************************"
       puts ""
