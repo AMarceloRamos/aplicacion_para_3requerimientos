@@ -17,7 +17,7 @@ module JuegoAdivinanzas
         puts "-Maquina: ¡Adivinaste!... ¡Bien jugado!"
       else
         puts "Juez: El número dicho por el jugador no es el número que la máquina pensó."
-        puts "-Maquina: ¡Mala suerte!... Te falta percepción."
+        puts "-Maquina: ¡Mala suerte!... vuelve a intentarlo."
       end
     end
 
