@@ -42,6 +42,6 @@ class Requerimientos
         end
     end 
 end
-#creando objeto requirimientos 
+#creando objeto requerimientos 
 requerimientos = Requerimientos.new
 requerimientos.iniciar_programa
